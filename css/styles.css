@@ -97,8 +97,7 @@ h2 {
 }
 .far{
     color: #ffffff;
-    width: 57px;
-    height: 56.64px;
+    font-size: 50px;
     position: absolute;
     margin: 192px 897px 119.36px 326px;
 }
@@ -112,8 +111,7 @@ h2 {
 }
 .fab{
     color: #ffffff;
-    width: 39.17px;
-    height: 55.8px;
+    font-size: 50px;
     position: absolute;
     margin: 172px 620.41px 120.2px 620.41px;
 }
@@ -127,14 +125,9 @@ h2 {
 }
 .fas{
     color: #ffffff;
-    width: 40.93px;
-    height: 48.61px;
+    font-size: 50px;
     position: absolute;
     margin: 176.39px 323.82px 120px 915.25px;
-}
-
-.font-awesome {
-    color: #ffffff;
 }
 
 #imagenes {
