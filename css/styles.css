@@ -69,6 +69,15 @@ h1 {
     background: #1e1a13;
 }
 
+#icons-section p {
+    color: #ffffff;
+    font-family: "Raleway";
+    font-optical-sizing: auto;
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 0px;
+
+}
 h2 {
     color: #ffffff;
     font-size: 40px;
@@ -77,16 +86,6 @@ h2 {
     width: 356px;
     height: 47px;
     font-weight: 500;
-}
-
-#icons-section p {
-    color: #ffffff;
-    font-family: "Raleway";
-    font-optical-sizing: auto;
-    text-align: center;
-    font-weight: 100;
-    font-style: normal;
-
 }
 
 #cara1 {
@@ -120,11 +119,11 @@ h2 {
 }
 
 #cara3 {
-    width: 202px;
+    width: 203px;
     height: 30px;
     position: absolute;
-    margin: 244px 243.12px 74px 834.88px;
-    font-size: 25px
+    margin: 244px 243px 74px 834px;
+    font-size: 25px;
 }
 .fas{
     color: #ffffff;
