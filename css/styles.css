@@ -95,10 +95,12 @@ h2 {
     margin: 245px 871px 74px 301px;
     font-size: 24px;
 }
-.far{
+.font-awesome{
     color: #ffffff;
-    font-size: 50px;
     position: absolute;
+}
+.far{
+    font-size: 50px;
     margin: 192px 897px 119.36px 326px;
 }
 
@@ -110,9 +112,7 @@ h2 {
     font-size: 25px;
 }
 .fa-regular{
-    color: #ffffff;
     font-size: 50px;
-    position: absolute;
     margin: 172px 620.41px 120.2px 620.41px;
 }
 
@@ -124,9 +124,7 @@ h2 {
     font-size: 25px;
 }
 .fas{
-    color: #ffffff;
     font-size: 50px;
-    position: absolute;
     margin: 176.39px 323.82px 120px 915.25px;
 }
 
